@@ -1,0 +1,22 @@
+{
+{
+ "name": "Grafex",
+ "short_name": "Grafex",
+ "description": "Tidningsarkiv och nyheter från Grafex",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#000000",
+ "icons": [
+   {
+     "src": "https://static.wixstatic.com/media/cba45a_1740682af0df45ce9edabdeff156310a~mv2.png",
+     "sizes": "192x192",
+     "type": "image/png"
+   },
+   {
+     "src": "https://static.wixstatic.com/media/cba45a_eaea083764fd4de095809f4c5d0065b1~mv2.png",
+     "sizes": "512x512",
+     "type": "image/png"
+   }
+ ]
+}
